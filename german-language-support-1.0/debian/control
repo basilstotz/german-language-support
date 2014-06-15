@@ -1,0 +1,16 @@
+Source: german-language-support
+Section: unknown
+Priority: extra
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.2
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: git://git.debian.org/collab-maint/german-language-support.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/german-language-support.git;a=summary
+
+Package: german-language-support
+Architecture: all
+Depends: ${misc:Depends},language-pack-de,language-pack-gnome-de,language-pack-kde-de,hyphen-de,libreoffice-l10n-de,myspell-de-ch,mythes-de-ch
+Description: Swiss-German language support
+ Metapackage: Installs all needed packages to support
+ Swiss-German language. 
