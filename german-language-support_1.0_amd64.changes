@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sun, 15 Jun 2014 11:21:05 +0200
+Source: german-language-support
+Binary: german-language-support
+Architecture: source all
+Version: 1.0
+Distribution: unstable
+Urgency: low
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: Basil Stotz <stotz@amxa.ch>
+Description: 
+ german-language-support - Swiss-German language support
+Changes: 
+ german-language-support (1.0) unstable; urgency=low
+ .
+   * Initial release
+Checksums-Sha1: 
+ 16037a7bfd4e5efd73778714c3055e9117167e97 618 german-language-support_1.0.dsc
+ 0a9534684192a3645c678347e9475d9fe59ca709 938 german-language-support_1.0.tar.gz
+ 4e9ac77652b4be6258ab0040340f0a8c9795287d 1082 german-language-support_1.0_all.deb
+Checksums-Sha256: 
+ 4b9fd8b9ba579efd5c8bb20a00f1de702f8d49d4762cec7b424f83cbac9c296b 618 german-language-support_1.0.dsc
+ 9c63a86736654c672538d497ef071126d82d92e6aae177915e04bda9cca87953 938 german-language-support_1.0.tar.gz
+ b10c8c3fd569fc748cbd1d0f333b0526bb980e739b96ce606c0ed7269649334e 1082 german-language-support_1.0_all.deb
+Files: 
+ 1f6e1c3d3732c48a4d0e1312a8fc61f3 618 unknown extra german-language-support_1.0.dsc
+ beba045d303768ea23aa5384e6a62ca6 938 unknown extra german-language-support_1.0.tar.gz
+ 1a81033eb90f489d6bff4bef80a68312 1082 unknown extra german-language-support_1.0_all.deb
